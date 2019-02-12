@@ -1,6 +1,6 @@
 //endroit des constantes
 const Discord = require('discord.js');
-const token = 'NTMyNjIwNTE1NjQ3NDIyNDkx.DxfJGw.1pHTJYlfhFyCCiijBKrXIq4nDTA';
+const token = 'TOKEN';
 const prefix = '*';
 const ytdl = require('ytdl-core');
 const ffmpeg = require('ffmpeg');
